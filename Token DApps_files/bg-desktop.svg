@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <radialGradient id="deskGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#0b1329"/>
+      <stop offset="100%" stop-color="#050811"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#deskGlow)"/>
+  <g stroke="rgba(255, 255, 255, 0.02)" stroke-width="1">
+    <path d="M0,0 L1920,1080 M0,1080 L1920,0" />
+  </g>
+</svg>
